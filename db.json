@@ -1,0 +1,148 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Audi RS6",
+      "make": "Audi",
+      "model": "RS6",
+      "year": 2023,
+      "price": 112000,
+      "image": "/images/Car1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Audi RS8",
+      "make": "Audi",
+      "model": "RS8",
+      "year": 2023,
+      "price": 140000,
+      "image": "/images/Car2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "BMW G7",
+      "make": "BMW",
+      "model": "G7",
+      "year": 2023,
+      "price": 90000,
+      "image": "/images/Car3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "BMW GT",
+      "make": "BMW",
+      "model": "GT",
+      "year": 2023,
+      "price": 85000,
+      "image": "/images/Car4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chevrolet M16",
+      "make": "Chevrolet",
+      "model": "M16",
+      "year": 2023,
+      "price": 30000,
+      "image": "/images/Car5.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Audi",
+      "make": "Audi",
+      "model": "200",
+      "year": 2023,
+      "price": 30000,
+      "image": "/images/Car15.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dodge Challenger",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year": 2023,
+      "price": 35000,
+      "image": "/images/Car6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ford Coupe",
+      "make": "Ford",
+      "model": "Coupe",
+      "year": 2023,
+      "price": 28000,
+      "image": "/images/Car7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jeep 2016",
+      "make": "Jeep",
+      "model": "2016",
+      "year": 2016,
+      "price": 22000,
+      "image": "/images/Car8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Jeep",
+      "make": "Jeep",
+      "model": "Unknown",
+      "year": 2023,
+      "price": 30000,
+      "image": "/images/Car9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "M16 Coupe",
+      "make": "Unknown",
+      "model": "M16 Coupe",
+      "year": 2023,
+      "price": 25000,
+      "image": "/images/Car10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Mercedes Coupe",
+      "make": "Mercedes",
+      "model": "Coupe",
+      "year": 2023,
+      "price": 70000,
+      "image": "/images/Car11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Mercedes V16",
+      "make": "Mercedes",
+      "model": "V16",
+      "year": 2023,
+      "price": 200000,
+      "image": "/images/Car12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Porsche Maybach",
+      "make": "Porsche",
+      "model": "Maybach",
+      "year": 2023,
+      "price": 300000,
+      "image": "/images/Car13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Range Rover",
+      "make": "Range Rover",
+      "model": "Unknown",
+      "year": 2023,
+      "price": 90000,
+      "image": "/images/Car14.jpg"
+    },
+    {
+      "id": 16,
+      "name": "BMW S9",
+      "make": "BMW",
+      "model": "2023",
+      "year": 2023,
+      "price": 30000,
+      "image": "/images/Car16.jpg"
+    }
+  ]
+}
