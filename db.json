@@ -7,7 +7,7 @@
       "model": "RS6",
       "year": 2023,
       "price": 112000,
-      "image": "/images/Car1.jpg"
+      "image": "/public/images/Car1.jpg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "model": "RS8",
       "year": 2023,
       "price": 140000,
-      "image": "/images/Car2.jpg"
+      "image": "/public/images/Car2.jpg"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "model": "G7",
       "year": 2023,
       "price": 90000,
-      "image": "/images/Car3.jpg"
+      "image": "/public/images/Car3.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "model": "GT",
       "year": 2023,
       "price": 85000,
-      "image": "/images/Car4.jpg"
+      "image": "/public/images/Car4.jpg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "model": "M16",
       "year": 2023,
       "price": 30000,
-      "image": "/images/Car5.jpg"
+      "image": "/public/images/Car5.jpg"
     },
     {
       "id": 15,
@@ -52,7 +52,7 @@
       "model": "200",
       "year": 2023,
       "price": 30000,
-      "image": "/images/Car15.jpg"
+      "image": "/public/images/Car15.jpg"
     },
     {
       "id": 6,
@@ -61,7 +61,7 @@
       "model": "Challenger",
       "year": 2023,
       "price": 35000,
-      "image": "/images/Car6.jpg"
+      "image": "/public/images/Car6.jpg"
     },
     {
       "id": 7,
@@ -70,7 +70,7 @@
       "model": "Coupe",
       "year": 2023,
       "price": 28000,
-      "image": "/images/Car7.jpg"
+      "image": "/public/images/Car7.jpg"
     },
     {
       "id": 8,
@@ -79,7 +79,7 @@
       "model": "2016",
       "year": 2016,
       "price": 22000,
-      "image": "/images/Car8.jpg"
+      "image": "/public/images/Car8.jpg"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "model": "Unknown",
       "year": 2023,
       "price": 30000,
-      "image": "/images/Car9.jpg"
+      "image": "/public/images/Car9.jpg"
     },
     {
       "id": 10,
@@ -97,7 +97,7 @@
       "model": "M16 Coupe",
       "year": 2023,
       "price": 25000,
-      "image": "/images/Car10.jpg"
+      "image": "/public/images/Car10.jpg"
     },
     {
       "id": 11,
@@ -106,7 +106,7 @@
       "model": "Coupe",
       "year": 2023,
       "price": 70000,
-      "image": "/images/Car11.jpg"
+      "image": "/public/images/Car11.jpg"
     },
     {
       "id": 12,
@@ -115,7 +115,7 @@
       "model": "V16",
       "year": 2023,
       "price": 200000,
-      "image": "/images/Car12.jpg"
+      "image": "/public/images/Car12.jpg"
     },
     {
       "id": 13,
@@ -124,7 +124,7 @@
       "model": "Maybach",
       "year": 2023,
       "price": 300000,
-      "image": "/images/Car13.jpg"
+      "image": "/public/images/Car13.jpg"
     },
     {
       "id": 14,
@@ -133,7 +133,7 @@
       "model": "Unknown",
       "year": 2023,
       "price": 90000,
-      "image": "/images/Car14.jpg"
+      "image": "/public/images/Car14.jpg"
     },
     {
       "id": 16,
@@ -142,7 +142,7 @@
       "model": "2023",
       "year": 2023,
       "price": 30000,
-      "image": "/images/Car16.jpg"
+      "image": "/public/images/Car16.jpg"
     }
   ]
 }
